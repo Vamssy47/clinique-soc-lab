@@ -57,7 +57,7 @@ Chaque VM doit être connectée scrupuleusement aux segments définis ci-dessous
 
 ### Connexion initiale
 1. Démarrez la VM **pfSense**.
-2. Accédez à l'interface de gestion (Console ou WebGUI) avec les identifiants suivants :
+2. Accédez à l'interface de gestion (Console ou WebGUI) avec les identifiants suivants :(j'ai mis les code pour que le professeur puisse vérifier meme si ce n'est pas une bonne pratique au vu du projets)
    * **Utilisateur :** `admin`
    * **Mot de passe :** `Superadmin2025.`
 
